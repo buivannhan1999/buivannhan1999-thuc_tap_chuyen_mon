@@ -1,0 +1,29 @@
+# THỰC TẬP CHUYÊN MÔN NĂM HỌC 2019-2020
+Họ tên:Bùi Văn Nhân
+Mã sinh viên:5851071049
+Lớp:Công Nghệ Thông tin -K58
+## Đề tài: ứng dụng winform quản lý cửa hàng xe máy
+## Phần 1: Công nghệ sử dụng
+- -	Microsoft Visual Studio 2019
+-	Microsoft SQL Sever Management Studio 19
+-	Microsoft Office 2019
+-	Sử dụng ngôn ngữ lập trình C#
+-	Framework: Bunifu Framework
+## Phần 2: Các chức năng đã hoàn thành
+1. Thêm,Sửa,Xóa, tìm kiếm các bảng nhân viên, hóa đơn, khách hàng, phiếu nhập, nhà cung cấp và các bảng khác.
+2. Tính thành tiền của sản phẩm khi nhập, tổng tiền của hóa đơn khi xuất hóa đơn. sô lượng tồn của sản phẩm
+3. Biểu đồ doanh thu theo tháng, Năm
+4. xuất hóa đơn đã có.
+## Phần 3: Các chức năng chưa hoàn thành
+1. Phân quyền người dùng
+2. Gửi gmail xác nhận
+3. Và Một số tính năm nâng cao khác.
+## Hướng dẫn sử dụng
+B1: chạy form đăng nhập vào chương trình.
+B2: vào trang chủ của hệ thống
+B3: thực hiện các thao tác có trên các bảng của chương trình
+B4: thêm sản phẩm khi nhập hàng, chọn sản phẩm khi bán và xuất hóa đơn cho khách hàng
+B5: thoát khi kết thúc chương trình
+
+
+Xin cám ơn!
